@@ -1,0 +1,33 @@
+{
+  "name": "jmartz-gmbh/nova-card-tasks-board",
+  "description": "Nova Card for Tasks Board overview",
+  "keywords": [
+    "laravel",
+    "nova",
+    "card",
+    "tasks"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^7.3|^7.4",
+    "jonathan-martz/lumen-controller-tasks": "^0.1.4",
+    "illuminate/database": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "JonathanMartz\\NovaCardTasksBoard\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "JonathanMartz\\NovaCardTasksBoard\\CardServiceProvider"
+      ]
+    }
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
