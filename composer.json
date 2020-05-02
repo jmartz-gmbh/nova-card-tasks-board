@@ -10,7 +10,7 @@
   "license": "MIT",
   "require": {
     "php": "^7.3|^7.4",
-    "jonathan-martz/lumen-controller-tasks": "^0.1.4",
+    "jonathan-martz/lumen-controller-tasks": "^0.1",
     "illuminate/database": "^7.0"
   },
   "autoload": {
