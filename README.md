@@ -1,4 +1,4 @@
-#### Nova Card for Projects
+#### Nova Card for Tasks Board
 Note: Coming Soon
 
 ##### Copyright
