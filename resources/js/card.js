@@ -1,3 +1,3 @@
 Nova.booting((Vue, router, store) => {
-  Vue.component('nova-card-projects', require('./components/Card'))
+  Vue.component('nova-card-tasks-board', require('./components/Card'))
 });
